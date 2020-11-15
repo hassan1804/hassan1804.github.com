@@ -1,0 +1,63 @@
+#header-skills {
+    font-family: 'Bebas Neue', cursive;
+    color: white;
+    font-size: 70px;
+    text-align: left;
+    padding-left: 50px;
+    padding-bottom: 100px;
+  
+}
+
+#name {
+    font-family: 'Bebas Neue', cursive;
+    color:white;
+    font-size: 30px;
+    text-align: left;
+    padding-left: 50px;
+    padding-top: 150px;
+    margin-bottom: 0px;
+
+}
+main {
+    background-image: url(../Images/emile-perron-xrVDYZRGdw4-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    padding-top: 1px;
+    
+}
+
+nav {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 20px;
+    width: 98.75%;
+    margin: 0px;
+
+    padding: 1px 0px;
+    background-color: black;
+    position: fixed;
+
+    }
+
+nav ul li{
+display: inline-block;
+color: whitesmoke;
+padding-right:60px;
+}
+
+#social li {
+    font-size: 30px;
+    color: #000;
+ 
+}
+
+.webdevskills{
+    background-color: red;
+}
+footer li{
+    list-style: none;
+    display: inline-block;
+    padding-right: 70px;
+    position: relative;
+    top: 95%;
+    left: 40%;
+}
